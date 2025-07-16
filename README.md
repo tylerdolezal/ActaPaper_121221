@@ -1,0 +1,1 @@
+Data files and processing scripts accompanying Segregation and ordering of light interstitials (B, C, H, and N) in Cr–Ni alloys: Implications for grain boundary stability in superalloy design in Acta Materialia (https://doi.org/10.1016/j.actamat.2025.121221)
