@@ -1,0 +1,13 @@
+POSCAR-1
+Metals:
+  Cr: 0.3205
+  Ni: 0.6795
+Interstitials:
+  H: 0.0281
+
+Average and Standard Deviation:
+Metals:
+  Ni: Average = 0.6795, Std Dev = 0.0000
+  Cr: Average = 0.3205, Std Dev = 0.0000
+Interstitials:
+  H: Average = 0.0281, Std Dev = 0.0000

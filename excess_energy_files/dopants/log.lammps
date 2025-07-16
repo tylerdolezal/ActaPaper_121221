@@ -1,0 +1,91 @@
+LAMMPS (29 Sep 2021 - Update 1)
+  using 1 OpenMP thread(s) per MPI task
+# Initialize LAMMPS
+units metal
+dimension 3
+boundary p p p
+atom_style atomic
+
+# Read data from POSCAR file
+read_data POSCAR.data
+Reading data file ...
+  triclinic box = (0.0000000 0.0000000 0.0000000) to (5.6989258 4.9354145 22.796400) with tilt (-2.8494629 1.6000489e-15 2.7713660e-15)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  64 atoms
+  read_data CPU = 0.001 seconds
+
+# NOTE: This script can be modified for different pair styles
+# See in.elastic for more info.
+
+# Define interatomic potentials
+pair_style pfp_api v5.0.0 CRYSTAL_U0_PLUS_D3
+pair_coeff * * species Mo N
+
+fix 1 all box/relax iso 0.0
+
+thermo_style custom step temp pe ke etotal vol
+thermo 50
+
+# Perform relaxation
+min_style cg
+minimize 1e-12 1e-12 7500 15000
+WARNING: Using 'neigh_modify every 1 delay 0 check yes' setting during minimization (src/min.cpp:188)
+Neighbor list info ...
+  update every 1 steps, delay 0 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 2.01
+  ghost atom cutoff = 2.01
+  binsize = 1.005, bins = 9 5 23
+  1 neighbor lists, perpetual/occasional/extra = 1 0 0
+  (1) pair pfp_api, perpetual
+      attributes: half, newton on
+      pair build: half/bin/newton/tri
+      stencil: half/bin/3d/tri
+      bin: standard
+Per MPI rank memory allocation (min/avg/max) = 4.202 | 4.202 | 4.202 Mbytes
+Step Temp PotEng KinEng TotEng Volume 
+       0            0   -424.49061            0   -424.49061    641.18434 
+      50            0   -424.71731            0   -424.71731    631.61458 
+      60            0    -424.7243            0    -424.7243     629.9022 
+Loop time of 6.66468 on 1 procs for 60 steps with 64 atoms
+
+1.5% CPU use with 1 MPI tasks x 1 OpenMP threads
+
+Minimization stats:
+  Stopping criterion = linesearch alpha is zero
+  Energy initial, next-to-last, final = 
+     -424.490607074887  -424.724359587591  -424.724298667264
+  Force two-norm initial, final = 76.382183 2.0481477
+  Force max component initial, final = 76.369670 1.1769260
+  Final line search alpha, max atom move = 2.5931395e-09 3.0519332e-09
+  Iterations, force evaluations = 60 76
+
+MPI task timing breakdown:
+Section |  min time  |  avg time  |  max time  |%varavg| %total
+---------------------------------------------------------------
+Pair    | 6.6613     | 6.6613     | 6.6613     |   0.0 | 99.95
+Neigh   | 0          | 0          | 0          |   0.0 |  0.00
+Comm    | 0.00062299 | 0.00062299 | 0.00062299 |   0.0 |  0.01
+Output  | 3.6955e-05 | 3.6955e-05 | 3.6955e-05 |   0.0 |  0.00
+Modify  | 0          | 0          | 0          |   0.0 |  0.00
+Other   |            | 0.00277    |            |       |  0.04
+
+Nlocal:        64.0000 ave          64 max          64 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:        177.000 ave         177 max         177 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:         0.00000 ave           0 max           0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 0
+Ave neighs/atom = 0.0000000
+Neighbor list builds = 0
+Dangerous builds = 0
+
+variable etotal equal pe
+print "${etotal}" file energy.txt
+-424.724298667264
+
+#write_data CONTCAR.data nocoeff
+Total wall time: 0:00:08

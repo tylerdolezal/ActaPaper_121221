@@ -1,0 +1,11 @@
+Steps Completed: 9200
+Acceptance %: 41.16304347826087
+Rejection %: 58.836956521739125
+
+Accepted Swaps: 1241
+New Hosts Accepted: 1408
+Translates Accepted: 0
+Cluster Hops Accepted: 0
+Cluster Shuffles Accepted: 1138
+MD Simulations Accepted: 0
+Steps for MD: 3787

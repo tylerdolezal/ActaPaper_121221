@@ -1,0 +1,35 @@
+POSCAR-1
+Metals:
+  Cr: 0.3073
+  Ni: 0.6927
+Interstitials:
+
+POSCAR-2
+Metals:
+  Cr: 0.3372
+  Ni: 0.6628
+Interstitials:
+
+POSCAR-3
+Metals:
+  Cr: 0.3103
+  Ni: 0.6897
+Interstitials:
+
+POSCAR-4
+Metals:
+  Cr: 0.3078
+  Ni: 0.6922
+Interstitials:
+
+POSCAR-5
+Metals:
+  Cr: 0.2887
+  Ni: 0.7113
+Interstitials:
+
+Average and Standard Deviation:
+Metals:
+  Ni: Average = 0.6898, Std Dev = 0.0155
+  Cr: Average = 0.3102, Std Dev = 0.0155
+Interstitials:

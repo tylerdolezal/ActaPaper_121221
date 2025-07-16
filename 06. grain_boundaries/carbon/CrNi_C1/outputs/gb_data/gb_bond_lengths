@@ -1,0 +1,15 @@
+POSCAR-1
+  ('C', 'Ni'): 2.7458 A
+  ('C', 'Cr'): 2.2466 A
+  ('C', 'C'): 2.8226 A
+  ('Cr', 'Ni'): 2.5944 A
+  ('Cr', 'Cr'): 2.6427 A
+  ('Ni', 'Ni'): 2.5604 A
+
+Average and Standard Deviation for Bond Lengths:
+('C', 'Ni'): Average = 2.7458 A, Std Dev = 0.0000 A
+('C', 'Cr'): Average = 2.2466 A, Std Dev = 0.0000 A
+('C', 'C'): Average = 2.8226 A, Std Dev = 0.0000 A
+('Cr', 'Ni'): Average = 2.5944 A, Std Dev = 0.0000 A
+('Cr', 'Cr'): Average = 2.6427 A, Std Dev = 0.0000 A
+('Ni', 'Ni'): Average = 2.5604 A, Std Dev = 0.0000 A

@@ -1,0 +1,1848 @@
+{
+    "entries": {
+        "B": {
+            "Al": [
+                {
+                    "material_id": "mp-530274-GGA",
+                    "formula": "Al23B50",
+                    "space_group": "P-1",
+                    "relaxed_energy": -414.23336875196526,
+                    "chemical_potential_interstitial": -6.560643511794809,
+                    "chemical_potential_metal": -3.7478779635749913
+                },
+                {
+                    "material_id": "mp-944-GGA",
+                    "formula": "AlB2",
+                    "space_group": "P6/mmm",
+                    "relaxed_energy": -16.92539104007104,
+                    "chemical_potential_interstitial": -6.588756538248025,
+                    "chemical_potential_metal": -3.7478779635749913
+                }
+            ],
+            "Cr": [
+                {
+                    "material_id": "mp-1078278-GGA",
+                    "formula": "CrB4",
+                    "space_group": "Pnnm",
+                    "relaxed_energy": -64.04182779005897,
+                    "chemical_potential_interstitial": -6.873919944572171,
+                    "chemical_potential_metal": -4.525234116740805
+                },
+                {
+                    "material_id": "mp-1080664-GGA",
+                    "formula": "CrB",
+                    "space_group": "I4_1/amd",
+                    "relaxed_energy": -48.57722444441672,
+                    "chemical_potential_interstitial": -7.619071994363374,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-569424-GGA",
+                    "formula": "Cr2B",
+                    "space_group": "Fddd",
+                    "relaxed_energy": -67.18381145828035,
+                    "chemical_potential_interstitial": -7.745484631088473,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-15617-GGA",
+                    "formula": "Cr5B3",
+                    "space_group": "I4/mcm",
+                    "relaxed_energy": -91.6030029990915,
+                    "chemical_potential_interstitial": -7.725110305280573,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-15809-GGA",
+                    "formula": "Cr2B",
+                    "space_group": "I4/mcm",
+                    "relaxed_energy": -33.572015597376726,
+                    "chemical_potential_interstitial": -7.73553956520675,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-27710-GGA",
+                    "formula": "CrB4",
+                    "space_group": "Immm",
+                    "relaxed_energy": -31.956028519532747,
+                    "chemical_potential_interstitial": -6.857698600697985,
+                    "chemical_potential_metal": -4.525234116740808
+                },
+                {
+                    "material_id": "mp-260-GGA",
+                    "formula": "CrB",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -24.276759297711802,
+                    "chemical_potential_interstitial": -7.6131455321150945,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-889-GGA",
+                    "formula": "Cr3B4",
+                    "space_group": "Immm",
+                    "relaxed_energy": -43.04263771272452,
+                    "chemical_potential_interstitial": -7.366733840625525,
+                    "chemical_potential_metal": -4.525234116740807
+                },
+                {
+                    "material_id": "mp-12054-GGA",
+                    "formula": "Cr2B3",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -61.626517756300096,
+                    "chemical_potential_interstitial": -7.254263548222812,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-374-GGA",
+                    "formula": "CrB2",
+                    "space_group": "P6/mmm",
+                    "relaxed_energy": -18.566395844670623,
+                    "chemical_potential_interstitial": -7.020580863964908,
+                    "chemical_potential_metal": -4.5252341167408066
+                }
+            ],
+            "Fe": [
+                {
+                    "material_id": "mp-1101938-GGA",
+                    "formula": "FeB2",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -76.62904756089063,
+                    "chemical_potential_interstitial": -6.9143663014799355,
+                    "chemical_potential_metal": -5.328529287262786
+                },
+                {
+                    "material_id": "mp-1915-GGA",
+                    "formula": "Fe2B",
+                    "space_group": "I4/mcm",
+                    "relaxed_energy": -36.42131302828348,
+                    "chemical_potential_interstitial": -7.55359793961617,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-1080525-GGA",
+                    "formula": "FeB",
+                    "space_group": "I4_1/amd",
+                    "relaxed_energy": -50.539005373676936,
+                    "chemical_potential_interstitial": -7.306222056156449,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-1007881-GGA",
+                    "formula": "FeB",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -25.28290285581359,
+                    "chemical_potential_interstitial": -7.31292214064401,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-1079437-GGA",
+                    "formula": "FeB4",
+                    "space_group": "Pnnm",
+                    "relaxed_energy": -64.38354704914806,
+                    "chemical_potential_interstitial": -6.7158110593278115,
+                    "chemical_potential_metal": -5.328529287262786
+                },
+                {
+                    "material_id": "mp-1194531-GGA",
+                    "formula": "Fe2B7",
+                    "space_group": "Pbam",
+                    "relaxed_energy": -460.0800829604552,
+                    "chemical_potential_interstitial": -6.693278827933047,
+                    "chemical_potential_metal": -5.328529287262786
+                },
+                {
+                    "material_id": "mp-20787-GGA",
+                    "formula": "FeB",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -50.632218972208555,
+                    "chemical_potential_interstitial": -7.329525455789354,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-973682-GGA",
+                    "formula": "Fe3B",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -93.89532563252091,
+                    "chemical_potential_interstitial": -7.488243546341874,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-542758-GGA",
+                    "formula": "Fe23B6",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -167.02717117593002,
+                    "chemical_potential_interstitial": -7.411832928147663,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-1181327-GGA",
+                    "formula": "Fe3B",
+                    "space_group": "I-4",
+                    "relaxed_energy": -93.70186396192645,
+                    "chemical_potential_interstitial": -7.439878128693259,
+                    "chemical_potential_metal": -5.328529287262785
+                }
+            ],
+            "Mo": [
+                {
+                    "material_id": "mp-1890-GGA",
+                    "formula": "BMo",
+                    "space_group": "I4_1/amd",
+                    "relaxed_energy": -58.20472503391081,
+                    "chemical_potential_interstitial": -7.525048694537934,
+                    "chemical_potential_metal": -7.026132563939769
+                },
+                {
+                    "material_id": "mp-2331-GGA",
+                    "formula": "B2Mo",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -42.645648738561924,
+                    "chemical_potential_interstitial": -7.148345902670597,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-1080111-GGA",
+                    "formula": "B3Mo",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -55.167247957754874,
+                    "chemical_potential_interstitial": -6.852497138312557,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-999198-GGA",
+                    "formula": "BMo",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -29.1082761587661,
+                    "chemical_potential_interstitial": -7.52800551544328,
+                    "chemical_potential_metal": -7.026132563939769
+                },
+                {
+                    "material_id": "mp-2501-GGA",
+                    "formula": "BMo2",
+                    "space_group": "I4/mcm",
+                    "relaxed_energy": -43.00730579448045,
+                    "chemical_potential_interstitial": -7.451387769360688,
+                    "chemical_potential_metal": -7.026132563939769
+                },
+                {
+                    "material_id": "mp-1079053-GGA",
+                    "formula": "B2Mo3",
+                    "space_group": "P4/mbm",
+                    "relaxed_energy": -72.08252102696542,
+                    "chemical_potential_interstitial": -7.481431410831702,
+                    "chemical_potential_metal": -7.026132563939769
+                }
+            ],
+            "Nb": [
+                {
+                    "material_id": "mp-450-GGA",
+                    "formula": "NbB2",
+                    "space_group": "P6/mmm",
+                    "relaxed_energy": -22.81727626351693,
+                    "chemical_potential_interstitial": -7.576267417804663,
+                    "chemical_potential_metal": -7.664741427907604
+                },
+                {
+                    "material_id": "mp-2580-GGA",
+                    "formula": "NbB",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -31.437537646242465,
+                    "chemical_potential_interstitial": -8.054027395213627,
+                    "chemical_potential_metal": -7.664741427907606
+                },
+                {
+                    "material_id": "mp-10255-GGA",
+                    "formula": "Nb3B4",
+                    "space_group": "Immm",
+                    "relaxed_energy": -54.41445191662689,
+                    "chemical_potential_interstitial": -7.855056908226018,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-1080021-GGA",
+                    "formula": "Nb2B3",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -77.22622646782239,
+                    "chemical_potential_interstitial": -7.761210126031995,
+                    "chemical_potential_metal": -7.664741427907604
+                },
+                {
+                    "material_id": "mp-20689-GGA",
+                    "formula": "Nb3B2",
+                    "space_group": "P4/mbm",
+                    "relaxed_energy": -78.33685542203389,
+                    "chemical_potential_interstitial": -8.087101713647066,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-1102394-GGA",
+                    "formula": "Nb5B6",
+                    "space_group": "Cmmm",
+                    "relaxed_energy": -85.85607689750188,
+                    "chemical_potential_interstitial": -7.922061626327309,
+                    "chemical_potential_metal": -7.664741427907605
+                }
+            ],
+            "Ni": [
+                {
+                    "material_id": "mp-640067-GGA",
+                    "formula": "Ni4B3",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -170.62675795651455,
+                    "chemical_potential_interstitial": -7.178036272982735,
+                    "chemical_potential_metal": -5.280645167545108
+                },
+                {
+                    "material_id": "mp-2058-GGA",
+                    "formula": "Ni3B",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -93.70536848604111,
+                    "chemical_potential_interstitial": -7.584406618874953,
+                    "chemical_potential_metal": -5.280645167545108
+                },
+                {
+                    "material_id": "mp-2536-GGA",
+                    "formula": "Ni2B",
+                    "space_group": "I4/mcm",
+                    "relaxed_energy": -35.98846730730974,
+                    "chemical_potential_interstitial": -7.432943318564654,
+                    "chemical_potential_metal": -5.280645167545108
+                },
+                {
+                    "material_id": "mp-569404-GGA",
+                    "formula": "Ni4B3",
+                    "space_group": "C2/c",
+                    "relaxed_energy": -85.34604887662024,
+                    "chemical_potential_interstitial": -7.18348125604323,
+                    "chemical_potential_metal": -5.280645167545108
+                },
+                {
+                    "material_id": "mp-14019-GGA",
+                    "formula": "NiB",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -24.61249539814526,
+                    "chemical_potential_interstitial": -7.025602531527522,
+                    "chemical_potential_metal": -5.280645167545108
+                },
+                {
+                    "material_id": "mp-20962-GGA",
+                    "formula": "Ni23B6",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -166.37004910393506,
+                    "chemical_potential_interstitial": -7.485868375066261,
+                    "chemical_potential_metal": -5.280645167545108
+                }
+            ],
+            "Ti": [
+                {
+                    "material_id": "mp-1025170-GGA",
+                    "formula": "Ti3B4",
+                    "space_group": "Immm",
+                    "relaxed_energy": -50.531941940444945,
+                    "chemical_potential_interstitial": -8.233585462098574,
+                    "chemical_potential_metal": -5.865866697350216
+                },
+                {
+                    "material_id": "mp-7857-GGA",
+                    "formula": "TiB",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -56.48054853946955,
+                    "chemical_potential_interstitial": -8.254270437517171,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1145-GGA",
+                    "formula": "TiB2",
+                    "space_group": "P6/mmm",
+                    "relaxed_energy": -22.183473918841095,
+                    "chemical_potential_interstitial": -8.158803610745439,
+                    "chemical_potential_metal": -5.865866697350217
+                }
+            ],
+            "Zr": [
+                {
+                    "material_id": "mp-1472-GGA",
+                    "formula": "ZrB2",
+                    "space_group": "P6/mmm",
+                    "relaxed_energy": -22.794655471057382,
+                    "chemical_potential_interstitial": -8.042038954366227,
+                    "chemical_potential_metal": -6.710577562324929
+                },
+                {
+                    "material_id": "mp-1084-GGA",
+                    "formula": "ZrB12",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -87.00750784119805,
+                    "chemical_potential_interstitial": -6.69141085657276,
+                    "chemical_potential_metal": -6.710577562324929
+                }
+            ]
+        },
+        "C": {
+            "Al": [
+                {
+                    "material_id": "mp-1591-GGA",
+                    "formula": "Al4C3",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -39.90873513880715,
+                    "chemical_potential_interstitial": -8.30574109483573,
+                    "chemical_potential_metal": -3.7478779635749913
+                }
+            ],
+            "Cr": [
+                {
+                    "material_id": "mp-723-GGA",
+                    "formula": "Cr23C6",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -155.7015933715656,
+                    "chemical_potential_interstitial": -8.60353478108784,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-20937-GGA",
+                    "formula": "Cr3C2",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -121.92208458605936,
+                    "chemical_potential_interstitial": -8.452409398146209,
+                    "chemical_potential_metal": -4.525234116740807
+                },
+                {
+                    "material_id": "mp-1196316-GGA",
+                    "formula": "Cr7C3",
+                    "space_group": "P6_3mc",
+                    "relaxed_energy": -458.4860448035836,
+                    "chemical_potential_interstitial": -8.544705594420767,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-19855-GGA",
+                    "formula": "Cr7C3",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -229.32155278262897,
+                    "chemical_potential_interstitial": -8.551249792823866,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1189286-GGA",
+                    "formula": "Cr3C",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -88.50097093040972,
+                    "chemical_potential_interstitial": -8.54954038238001,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-570112-GGA",
+                    "formula": "Cr3C2",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -60.517965049670245,
+                    "chemical_potential_interstitial": -8.341640087306352,
+                    "chemical_potential_metal": -4.525234116740806
+                },
+                {
+                    "material_id": "mp-1226378-GGA",
+                    "formula": "Cr2C",
+                    "space_group": "P-3m1",
+                    "relaxed_energy": -17.268045647251146,
+                    "chemical_potential_interstitial": -8.217577413769533,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1018050-GGA",
+                    "formula": "CrC",
+                    "space_group": "P-6m2",
+                    "relaxed_energy": -12.674790332706976,
+                    "chemical_potential_interstitial": -8.14955621596617,
+                    "chemical_potential_metal": -4.5252341167408066
+                }
+            ],
+            "Fe": [
+                {
+                    "material_id": "mp-1192884-GGA",
+                    "formula": "Fe23C6",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -170.99194373546365,
+                    "chemical_potential_interstitial": -8.072628354736601,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-13154-GGA",
+                    "formula": "Fe3C",
+                    "space_group": "P6_322",
+                    "relaxed_energy": -47.805652172704825,
+                    "chemical_potential_interstitial": -7.917238224564059,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-510623-GGA",
+                    "formula": "Fe3C",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -95.99748599376667,
+                    "chemical_potential_interstitial": -8.013783636653315,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-2794-GGA",
+                    "formula": "Fe5C2",
+                    "space_group": "C2/c",
+                    "relaxed_energy": -85.3726242520504,
+                    "chemical_potential_interstitial": -8.021832844855638,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-1871-GGA",
+                    "formula": "Fe2C",
+                    "space_group": "Pnnm",
+                    "relaxed_energy": -37.27719153372313,
+                    "chemical_potential_interstitial": -7.981537192335997,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-645339-GGA",
+                    "formula": "Fe5C2",
+                    "space_group": "P2/c",
+                    "relaxed_energy": -170.71803540579242,
+                    "chemical_potential_interstitial": -8.01843120756709,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-21717-GGA",
+                    "formula": "Fe7C3",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -244.98855943861483,
+                    "chemical_potential_interstitial": -7.982478282938071,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-18257-GGA",
+                    "formula": "Fe7C3",
+                    "space_group": "P6_3mc",
+                    "relaxed_energy": -122.30970981450851,
+                    "chemical_potential_interstitial": -7.951716632138253,
+                    "chemical_potential_metal": -5.328529287262785
+                }
+            ],
+            "Mo": [
+                {
+                    "material_id": "mp-1552-GGA",
+                    "formula": "Mo2C",
+                    "space_group": "Pbcn",
+                    "relaxed_energy": -89.7295443231682,
+                    "chemical_potential_interstitial": -8.380120952912511,
+                    "chemical_potential_metal": -7.026132563939769
+                },
+                {
+                    "material_id": "mp-2305-GGA",
+                    "formula": "MoC",
+                    "space_group": "P-6m2",
+                    "relaxed_energy": -15.322052087365634,
+                    "chemical_potential_interstitial": -8.295919523425866,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-1221498-GGA",
+                    "formula": "Mo2C",
+                    "space_group": "P-3m1",
+                    "relaxed_energy": -22.228938840570592,
+                    "chemical_potential_interstitial": -8.176673712691054,
+                    "chemical_potential_metal": -7.026132563939769
+                }
+            ],
+            "Nb": [
+                {
+                    "material_id": "mp-569989-GGA",
+                    "formula": "Nb2C",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -98.73208338416634,
+                    "chemical_potential_interstitial": -9.353537990226377,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-2760-GGA",
+                    "formula": "Nb6C5",
+                    "space_group": "C2/m",
+                    "relaxed_energy": -92.11796842070625,
+                    "chemical_potential_interstitial": -9.225903970652123,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-2318-GGA",
+                    "formula": "Nb2C",
+                    "space_group": "P-3m1",
+                    "relaxed_energy": -24.691140698115458,
+                    "chemical_potential_interstitial": -9.361657842300248,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-32679-GGA",
+                    "formula": "Nb10C7",
+                    "space_group": "C2/m",
+                    "relaxed_energy": -140.88742915038534,
+                    "chemical_potential_interstitial": -9.177144981615614,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-910-GGA",
+                    "formula": "NbC",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -16.65915794677208,
+                    "chemical_potential_interstitial": -8.994416518864476,
+                    "chemical_potential_metal": -7.664741427907604
+                },
+                {
+                    "material_id": "mp-1220515-GGA",
+                    "formula": "Nb4C3",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -58.07706040969294,
+                    "chemical_potential_interstitial": -9.139364899354174,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-1173628-GGA",
+                    "formula": "Nb39C34",
+                    "space_group": "P-3m1",
+                    "relaxed_energy": -606.0778325914717,
+                    "chemical_potential_interstitial": -9.033909320678681,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-1220501-GGA",
+                    "formula": "Nb4C3",
+                    "space_group": "R3m",
+                    "relaxed_energy": -57.996147898059114,
+                    "chemical_potential_interstitial": -9.112394062142899,
+                    "chemical_potential_metal": -7.664741427907604
+                }
+            ],
+            "Ni": [
+                {
+                    "material_id": "mp-7586-GGA",
+                    "formula": "Ni3C",
+                    "space_group": "R-3c",
+                    "relaxed_energy": -47.23539848713901,
+                    "chemical_potential_interstitial": -7.775763740934179,
+                    "chemical_potential_metal": -5.280645167545108
+                }
+            ],
+            "Ti": [
+                {
+                    "material_id": "mp-10721-GGA",
+                    "formula": "Ti2C",
+                    "space_group": "Fd-3m",
+                    "relaxed_energy": -86.7795790090109,
+                    "chemical_potential_interstitial": -9.963161357552291,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-631-GGA",
+                    "formula": "TiC",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -15.641014811938245,
+                    "chemical_potential_interstitial": -9.775148114588028,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-27919-GGA",
+                    "formula": "Ti8C5",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -96.8707009262549,
+                    "chemical_potential_interstitial": -9.988753469490632,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1217106-GGA",
+                    "formula": "Ti2C",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -21.751650320286874,
+                    "chemical_potential_interstitial": -10.01991692558644,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1217090-GGA",
+                    "formula": "Ti8C5",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -96.68822614965812,
+                    "chemical_potential_interstitial": -9.952258514171277,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1094034-GGA",
+                    "formula": "Ti3C2",
+                    "space_group": "P6_3/mmc",
+                    "relaxed_energy": -74.40899932136773,
+                    "chemical_potential_interstitial": -9.803449784316607,
+                    "chemical_potential_metal": -5.865866697350217
+                }
+            ],
+            "Zr": [
+                {
+                    "material_id": "mp-684623-GGA",
+                    "formula": "Zr10C9",
+                    "space_group": "C2/c",
+                    "relaxed_energy": -312.8537161452595,
+                    "chemical_potential_interstitial": -9.924564716597832,
+                    "chemical_potential_metal": -6.710577562324927
+                },
+                {
+                    "material_id": "mp-2795-GGA",
+                    "formula": "ZrC",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -16.527054073550588,
+                    "chemical_potential_interstitial": -9.81647651122566,
+                    "chemical_potential_metal": -6.710577562324927
+                }
+            ]
+        },
+        "H": {
+            "Al": [
+                {
+                    "material_id": "mp-1106356-GGA",
+                    "formula": "AlH3",
+                    "space_group": "Fd-3m",
+                    "relaxed_energy": -42.42775405503021,
+                    "chemical_potential_interstitial": -2.286353516727521,
+                    "chemical_potential_metal": -3.7478779635749913
+                },
+                {
+                    "material_id": "mp-1183246-GGA",
+                    "formula": "AlH3",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -63.778991587860546,
+                    "chemical_potential_interstitial": -2.2939846559117,
+                    "chemical_potential_metal": -3.747877963574991
+                },
+                {
+                    "material_id": "mp-23933-GGA",
+                    "formula": "AlH3",
+                    "space_group": "R-3c",
+                    "relaxed_energy": -21.375036666552862,
+                    "chemical_potential_interstitial": -2.3132134565671465,
+                    "chemical_potential_metal": -3.7478779635749913
+                },
+                {
+                    "material_id": "mp-570130-GGA",
+                    "formula": "AlH3",
+                    "space_group": "Pnnm",
+                    "relaxed_energy": -63.54668039616404,
+                    "chemical_potential_interstitial": -2.2810784785952274,
+                    "chemical_potential_metal": -3.7478779635749917
+                }
+            ],
+            "Cr": [
+                {
+                    "material_id": "mp-24287-GGA",
+                    "formula": "CrH",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -6.904766045588109,
+                    "chemical_potential_interstitial": -2.3795319288473022,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-24208-GGA",
+                    "formula": "CrH2",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -9.257601165856379,
+                    "chemical_potential_interstitial": -2.366183524557786,
+                    "chemical_potential_metal": -4.5252341167408066
+                }
+            ],
+            "Fe": [
+                {
+                    "material_id": "mp-1009077-GGA",
+                    "formula": "FeH",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -7.667725244697611,
+                    "chemical_potential_interstitial": -2.3391959574348267,
+                    "chemical_potential_metal": -5.328529287262785
+                }
+            ],
+            "Mo": [
+                {
+                    "material_id": "mp-24417-GGA",
+                    "formula": "MoH",
+                    "space_group": "P6_3/mmc",
+                    "relaxed_energy": -16.76293662634078,
+                    "chemical_potential_interstitial": -1.3553357492306217,
+                    "chemical_potential_metal": -7.026132563939769
+                }
+            ],
+            "Nb": [
+                {
+                    "material_id": "mp-24154-GGA",
+                    "formula": "NbH2",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -13.104216925594084,
+                    "chemical_potential_interstitial": -2.7197377488432397,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-1206371-GGA",
+                    "formula": "NbH",
+                    "space_group": "Cmme",
+                    "relaxed_energy": -20.630561140910974,
+                    "chemical_potential_interstitial": -2.650539142547882,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-1220318-GGA",
+                    "formula": "NbH",
+                    "space_group": "I4/mmm",
+                    "relaxed_energy": -10.314020396689578,
+                    "chemical_potential_interstitial": -2.6492789687819736,
+                    "chemical_potential_metal": -7.664741427907605
+                }
+            ],
+            "Ni": [
+                {
+                    "material_id": "mp-24719-GGA",
+                    "formula": "NiH",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -7.714432096448333,
+                    "chemical_potential_interstitial": -2.433786928903225,
+                    "chemical_potential_metal": -5.280645167545108
+                },
+                {
+                    "material_id": "mp-1220079-GGA",
+                    "formula": "Ni2H",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -12.979664228697203,
+                    "chemical_potential_interstitial": -2.4183738936069865,
+                    "chemical_potential_metal": -5.280645167545108
+                },
+                {
+                    "material_id": "mp-753890-GGA",
+                    "formula": "Ni2H",
+                    "space_group": "P-3m1",
+                    "relaxed_energy": -12.983423440222616,
+                    "chemical_potential_interstitial": -2.4221331051323993,
+                    "chemical_potential_metal": -5.280645167545108
+                }
+            ],
+            "Ti": [
+                {
+                    "material_id": "mp-24726-GGA",
+                    "formula": "TiH2",
+                    "space_group": "I4/mmm",
+                    "relaxed_energy": -12.119783086138066,
+                    "chemical_potential_interstitial": -3.126958194393924,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-24161-GGA",
+                    "formula": "TiH2",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -12.129130804331272,
+                    "chemical_potential_interstitial": -3.1316320534905273,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-690760-GGA",
+                    "formula": "TiH",
+                    "space_group": "P4_2/mmc",
+                    "relaxed_energy": -17.915082157152128,
+                    "chemical_potential_interstitial": -3.0916743812258467,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1101754-GGA",
+                    "formula": "Ti4H7",
+                    "space_group": "P-43m",
+                    "relaxed_energy": -45.26656787047324,
+                    "chemical_potential_interstitial": -3.1147287258674816,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1079127-GGA",
+                    "formula": "Ti2H3",
+                    "space_group": "P4_2/mcm",
+                    "relaxed_energy": -42.02095168326061,
+                    "chemical_potential_interstitial": -3.092914148976624,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1095024-GGA",
+                    "formula": "Ti4H5",
+                    "space_group": "P-42m",
+                    "relaxed_energy": -38.892208464126625,
+                    "chemical_potential_interstitial": -3.0857483349451513,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1078123-GGA",
+                    "formula": "Ti4H3",
+                    "space_group": "P-42m",
+                    "relaxed_energy": -32.50964636088703,
+                    "chemical_potential_interstitial": -3.015393190495388,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1060435-GGA",
+                    "formula": "TiH",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -8.99033154762557,
+                    "chemical_potential_interstitial": -3.124464850275352,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1077045-GGA",
+                    "formula": "Ti2H",
+                    "space_group": "Pn-3m",
+                    "relaxed_energy": -29.459796873282183,
+                    "chemical_potential_interstitial": -2.9981650419406574,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1077482-GGA",
+                    "formula": "TiH2",
+                    "space_group": "P4/nmm",
+                    "relaxed_energy": -23.813830612035417,
+                    "chemical_potential_interstitial": -3.0205243043337457,
+                    "chemical_potential_metal": -5.865866697350217
+                }
+            ],
+            "Zr": [
+                {
+                    "material_id": "mp-24286-GGA",
+                    "formula": "ZrH2",
+                    "space_group": "I4/mmm",
+                    "relaxed_energy": -13.187276961055408,
+                    "chemical_potential_interstitial": -3.2383496993652408,
+                    "chemical_potential_metal": -6.710577562324927
+                },
+                {
+                    "material_id": "mp-697179-GGA",
+                    "formula": "ZrH",
+                    "space_group": "P4_2/mmc",
+                    "relaxed_energy": -19.768944055860487,
+                    "chemical_potential_interstitial": -3.1738944656053167,
+                    "chemical_potential_metal": -6.710577562324927
+                },
+                {
+                    "material_id": "mp-24155-GGA",
+                    "formula": "ZrH2",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -13.206875989737124,
+                    "chemical_potential_interstitial": -3.2481492137060988,
+                    "chemical_potential_metal": -6.710577562324927
+                },
+                {
+                    "material_id": "mp-632219-GGA",
+                    "formula": "ZrH",
+                    "space_group": "I-4m2",
+                    "relaxed_energy": -9.721450913441036,
+                    "chemical_potential_interstitial": -3.0108733511161088,
+                    "chemical_potential_metal": -6.710577562324927
+                }
+            ]
+        },
+        "N": {
+            "Al": [
+                {
+                    "material_id": "mp-661-GGA",
+                    "formula": "AlN",
+                    "space_group": "P6_3mc",
+                    "relaxed_energy": -23.94230614990915,
+                    "chemical_potential_interstitial": -8.223275111379584,
+                    "chemical_potential_metal": -3.7478779635749913
+                },
+                {
+                    "material_id": "mp-1700-GGA",
+                    "formula": "AlN",
+                    "space_group": "F-43m",
+                    "relaxed_energy": -11.949862811418146,
+                    "chemical_potential_interstitial": -8.201984847843155,
+                    "chemical_potential_metal": -3.7478779635749913
+                }
+            ],
+            "Cr": [
+                {
+                    "material_id": "mp-8780-GGA",
+                    "formula": "Cr2N",
+                    "space_group": "P-31m",
+                    "relaxed_energy": -47.08679886153704,
+                    "chemical_potential_interstitial": -6.645131387030734,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1183691-GGA",
+                    "formula": "CrN",
+                    "space_group": "P-6m2",
+                    "relaxed_energy": -11.000935486162625,
+                    "chemical_potential_interstitial": -6.475701369421818,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1232890-GGA",
+                    "formula": "CrN",
+                    "space_group": "Pmmn",
+                    "relaxed_energy": -42.57367892064758,
+                    "chemical_potential_interstitial": -6.118185613421089,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1018157-GGA",
+                    "formula": "CrN",
+                    "space_group": "F-43m",
+                    "relaxed_energy": -10.74007616561271,
+                    "chemical_potential_interstitial": -6.214842048871903,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1096882-GGA",
+                    "formula": "Cr3N2",
+                    "space_group": "R-3c",
+                    "relaxed_energy": -52.85324821666543,
+                    "chemical_potential_interstitial": -6.425460879055147,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1232560-GGA",
+                    "formula": "CrN",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -21.205535474422817,
+                    "chemical_potential_interstitial": -6.077533620470602,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1232782-GGA",
+                    "formula": "CrN",
+                    "space_group": "C2/m",
+                    "relaxed_energy": -42.481001248165406,
+                    "chemical_potential_interstitial": -6.095016195300545,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-2132-GGA",
+                    "formula": "CrN",
+                    "space_group": "I4/mmm",
+                    "relaxed_energy": -42.5380034653522,
+                    "chemical_potential_interstitial": -6.109266749597243,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1096898-GGA",
+                    "formula": "Cr3N2",
+                    "space_group": "C2/m",
+                    "relaxed_energy": -79.09131029626106,
+                    "chemical_potential_interstitial": -6.3940338742656335,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1232897-GGA",
+                    "formula": "CrN",
+                    "space_group": "P4/nmm",
+                    "relaxed_energy": -42.5533232448148,
+                    "chemical_potential_interstitial": -6.113096694462893,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1014345-GGA",
+                    "formula": "Cr3N4",
+                    "space_group": "P6_3/m",
+                    "relaxed_energy": -73.91712593711328,
+                    "chemical_potential_interstitial": -5.845715154583555,
+                    "chemical_potential_metal": -4.525234116740807
+                },
+                {
+                    "material_id": "mp-1014303-GGA",
+                    "formula": "Cr3N2",
+                    "space_group": "I4/mmm",
+                    "relaxed_energy": -25.975866261949975,
+                    "chemical_potential_interstitial": -6.200081955863777,
+                    "chemical_potential_metal": -4.5252341167408066
+                }
+            ],
+            "Fe": [
+                {
+                    "material_id": "mp-1804-GGA",
+                    "formula": "Fe3N",
+                    "space_group": "P6_322",
+                    "relaxed_energy": -43.50976822848664,
+                    "chemical_potential_interstitial": -5.769296252454968,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-6988-GGA",
+                    "formula": "FeN",
+                    "space_group": "F-43m",
+                    "relaxed_energy": -10.96040968071239,
+                    "chemical_potential_interstitial": -5.631880393449605,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-555-GGA",
+                    "formula": "Fe8N",
+                    "space_group": "I4/mmm",
+                    "relaxed_energy": -48.29937373035239,
+                    "chemical_potential_interstitial": -5.671139432250115,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-673635-GGA",
+                    "formula": "Fe3N",
+                    "space_group": "P312",
+                    "relaxed_energy": -173.9917494895435,
+                    "chemical_potential_interstitial": -5.763380824404585,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-673174-GGA",
+                    "formula": "Fe8N3",
+                    "space_group": "C2",
+                    "relaxed_energy": -179.25220091155617,
+                    "chemical_potential_interstitial": -5.707499779694372,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-27908-GGA",
+                    "formula": "Fe12N5",
+                    "space_group": "P-31m",
+                    "relaxed_energy": -184.64936823754724,
+                    "chemical_potential_interstitial": -5.676466534324041,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-684887-GGA",
+                    "formula": "Fe24N11",
+                    "space_group": "C2/c",
+                    "relaxed_energy": -379.75653920282343,
+                    "chemical_potential_interstitial": -5.63577879155499,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-21476-GGA",
+                    "formula": "Fe2N",
+                    "space_group": "Pbcn",
+                    "relaxed_energy": -65.1931730906134,
+                    "chemical_potential_interstitial": -5.64123469812778,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-684744-GGA",
+                    "formula": "Fe2N",
+                    "space_group": "P2_12_12",
+                    "relaxed_energy": -97.75628583754171,
+                    "chemical_potential_interstitial": -5.635655731731383,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-248-GGA",
+                    "formula": "Fe2N",
+                    "space_group": "P-31m",
+                    "relaxed_energy": -48.80841375368862,
+                    "chemical_potential_interstitial": -5.612412676703971,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-535-GGA",
+                    "formula": "Fe4N",
+                    "space_group": "Pm-3m",
+                    "relaxed_energy": -26.90346788824691,
+                    "chemical_potential_interstitial": -5.589350739195773,
+                    "chemical_potential_metal": -5.328529287262785
+                }
+            ],
+            "Mo": [
+                {
+                    "material_id": "mp-2811-GGA",
+                    "formula": "MoN",
+                    "space_group": "P6_3mc",
+                    "relaxed_energy": -105.18735183464288,
+                    "chemical_potential_interstitial": -6.122286415390591,
+                    "chemical_potential_metal": -7.026132563939769
+                },
+                {
+                    "material_id": "mp-530081-GGA",
+                    "formula": "Mo15N16",
+                    "space_group": "Cc",
+                    "relaxed_energy": -406.10541435066204,
+                    "chemical_potential_interstitial": -6.103794919764655,
+                    "chemical_potential_metal": -7.026132563939769
+                },
+                {
+                    "material_id": "mp-27953-GGA",
+                    "formula": "Mo2N",
+                    "space_group": "I4_1/amd",
+                    "relaxed_energy": -40.59738881428694,
+                    "chemical_potential_interstitial": -6.24642927926393,
+                    "chemical_potential_metal": -7.026132563939769
+                },
+                {
+                    "material_id": "mp-1078389-GGA",
+                    "formula": "MoN",
+                    "space_group": "P6_3/mmc",
+                    "relaxed_energy": -52.968848690037156,
+                    "chemical_potential_interstitial": -6.21607960856952,
+                    "chemical_potential_metal": -7.026132563939769
+                },
+                {
+                    "material_id": "mp-1065394-GGA",
+                    "formula": "MoN",
+                    "space_group": "P6_3/mmc",
+                    "relaxed_energy": -26.28316676913882,
+                    "chemical_potential_interstitial": -6.115450820629641,
+                    "chemical_potential_metal": -7.026132563939769
+                },
+                {
+                    "material_id": "mp-1221525-GGA",
+                    "formula": "Mo2N",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -20.198411094619985,
+                    "chemical_potential_interstitial": -6.1461459667404466,
+                    "chemical_potential_metal": -7.026132563939769
+                },
+                {
+                    "material_id": "mp-13036-GGA",
+                    "formula": "MoN",
+                    "space_group": "P-6m2",
+                    "relaxed_energy": -13.300654280874499,
+                    "chemical_potential_interstitial": -6.274521716934729,
+                    "chemical_potential_metal": -7.026132563939769
+                }
+            ],
+            "Nb": [
+                {
+                    "material_id": "mp-1079585-GGA",
+                    "formula": "Nb2N",
+                    "space_group": "P-31m",
+                    "relaxed_energy": -70.01072697333285,
+                    "chemical_potential_interstitial": -8.00742613529574,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-2634-GGA",
+                    "formula": "NbN",
+                    "space_group": "P-6m2",
+                    "relaxed_energy": -15.214220685250869,
+                    "chemical_potential_interstitial": -7.549479257343264,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-7234-GGA",
+                    "formula": "Nb5N6",
+                    "space_group": "P6_3/mcm",
+                    "relaxed_energy": -163.2640646615772,
+                    "chemical_potential_interstitial": -7.218054198541764,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-1188869-GGA",
+                    "formula": "Nb2N3",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -143.14589390549867,
+                    "chemical_potential_interstitial": -6.818996873519819,
+                    "chemical_potential_metal": -7.664741427907604
+                },
+                {
+                    "material_id": "mp-754556-GGA",
+                    "formula": "Nb3N5",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -110.46449256662811,
+                    "chemical_potential_interstitial": -6.447604399918248,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-7927-GGA",
+                    "formula": "Nb4N5",
+                    "space_group": "I4/m",
+                    "relaxed_energy": -65.98423853362527,
+                    "chemical_potential_interstitial": -7.065054564398972,
+                    "chemical_potential_metal": -7.664741427907604
+                },
+                {
+                    "material_id": "mp-2701-GGA",
+                    "formula": "NbN",
+                    "space_group": "P6_3/mmc",
+                    "relaxed_energy": -30.273759580596572,
+                    "chemical_potential_interstitial": -7.472138362390681,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-569167-GGA",
+                    "formula": "Nb4N3",
+                    "space_group": "I4/mmm",
+                    "relaxed_energy": -53.233665489163144,
+                    "chemical_potential_interstitial": -7.524899925844242,
+                    "chemical_potential_metal": -7.664741427907605
+                }
+            ],
+            "Ni": [
+                {
+                    "material_id": "mp-2033-GGA",
+                    "formula": "Ni3N",
+                    "space_group": "P6_322",
+                    "relaxed_energy": -42.16570871405365,
+                    "chemical_potential_interstitial": -5.2409188543915,
+                    "chemical_potential_metal": -5.280645167545108
+                },
+                {
+                    "material_id": "mp-1094090-GGA",
+                    "formula": "Ni4N",
+                    "space_group": "Pm-3m",
+                    "relaxed_energy": -26.130476270497496,
+                    "chemical_potential_interstitial": -5.007895600317063,
+                    "chemical_potential_metal": -5.280645167545108
+                }
+            ],
+            "Ti": [
+                {
+                    "material_id": "mp-492-GGA",
+                    "formula": "TiN",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -14.869605840902082,
+                    "chemical_potential_interstitial": -9.003739143551865,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-8282-GGA",
+                    "formula": "Ti2N",
+                    "space_group": "P4_2/mnm",
+                    "relaxed_energy": -42.48223202895335,
+                    "chemical_potential_interstitial": -9.50938261977624,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-7790-GGA",
+                    "formula": "Ti2N",
+                    "space_group": "I4_1/amd",
+                    "relaxed_energy": -42.2110353810743,
+                    "chemical_potential_interstitial": -9.373784295836717,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1187591-GGA",
+                    "formula": "Ti3N2",
+                    "space_group": "R-3c",
+                    "relaxed_energy": -72.27540646270276,
+                    "chemical_potential_interstitial": -9.270051569650365,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1217048-GGA",
+                    "formula": "Ti8N5",
+                    "space_group": "P-4m2",
+                    "relaxed_energy": -93.27652309903198,
+                    "chemical_potential_interstitial": -9.269917904046048,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-33046-GGA",
+                    "formula": "TiN",
+                    "space_group": "R3m",
+                    "relaxed_energy": -323.2429150453403,
+                    "chemical_potential_interstitial": -8.826993077437978,
+                    "chemical_potential_metal": -5.865866697350217
+                }
+            ],
+            "Zr": [
+                {
+                    "material_id": "mp-277-GGA",
+                    "formula": "Zr3N4",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -210.96702673258193,
+                    "chemical_potential_interstitial": -8.152505999042676,
+                    "chemical_potential_metal": -6.710577562324926
+                },
+                {
+                    "material_id": "mp-1014265-GGA",
+                    "formula": "Zr2N",
+                    "space_group": "P4_2/mnm",
+                    "relaxed_energy": -45.3143798724185,
+                    "chemical_potential_interstitial": -9.236034811559396,
+                    "chemical_potential_metal": -6.710577562324927
+                },
+                {
+                    "material_id": "mp-1352-GGA",
+                    "formula": "ZrN",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -15.76542368699636,
+                    "chemical_potential_interstitial": -9.054846124671434,
+                    "chemical_potential_metal": -6.710577562324927
+                },
+                {
+                    "material_id": "mp-866083-GGA",
+                    "formula": "Zr3N2",
+                    "space_group": "R-3c",
+                    "relaxed_energy": -76.88704659713032,
+                    "chemical_potential_interstitial": -9.155895305795191,
+                    "chemical_potential_metal": -6.710577562324926
+                },
+                {
+                    "material_id": "mp-754381-GGA",
+                    "formula": "Zr3N4",
+                    "space_group": "Fd-3m",
+                    "relaxed_energy": -104.7808954041537,
+                    "chemical_potential_interstitial": -8.064678753775517,
+                    "chemical_potential_metal": -6.710577562324926
+                },
+                {
+                    "material_id": "mp-11661-GGA",
+                    "formula": "Zr3N4",
+                    "space_group": "I-43d",
+                    "relaxed_energy": -104.90072187418976,
+                    "chemical_potential_interstitial": -8.079657062530025,
+                    "chemical_potential_metal": -6.710577562324926
+                },
+                {
+                    "material_id": "mp-1093992-GGA",
+                    "formula": "ZrN",
+                    "space_group": "P6_3/mmc",
+                    "relaxed_energy": -31.29283396918072,
+                    "chemical_potential_interstitial": -8.935839422265433,
+                    "chemical_potential_metal": -6.710577562324927
+                },
+                {
+                    "material_id": "mp-1014160-GGA",
+                    "formula": "ZrN",
+                    "space_group": "P-3m1",
+                    "relaxed_energy": -31.29144884010216,
+                    "chemical_potential_interstitial": -8.935146857726153,
+                    "chemical_potential_metal": -6.710577562324927
+                },
+                {
+                    "material_id": "mp-754353-GGA",
+                    "formula": "Zr3N4",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -52.39207494403902,
+                    "chemical_potential_interstitial": -8.06508556426606,
+                    "chemical_potential_metal": -6.710577562324926
+                }
+            ]
+        },
+        "O": {
+            "Al": [
+                {
+                    "material_id": "mp-1143-GGA",
+                    "formula": "Al2O3",
+                    "space_group": "R-3c",
+                    "relaxed_energy": -64.43126212553385,
+                    "chemical_potential_interstitial": -8.239958378538981,
+                    "chemical_potential_metal": -3.7478779635749895
+                },
+                {
+                    "material_id": "mp-7048-GGA",
+                    "formula": "Al2O3",
+                    "space_group": "C2/m",
+                    "relaxed_energy": -64.1373263663216,
+                    "chemical_potential_interstitial": -8.19096908533694,
+                    "chemical_potential_metal": -3.7478779635749895
+                },
+                {
+                    "material_id": "mp-2254-GGA",
+                    "formula": "Al2O3",
+                    "space_group": "Pna2_1",
+                    "relaxed_energy": -256.59392528678836,
+                    "chemical_potential_interstitial": -8.192828244566188,
+                    "chemical_potential_metal": -3.7478779635749895
+                }
+            ],
+            "Cr": [
+                {
+                    "material_id": "mp-19399-GGA+U",
+                    "formula": "Cr2O3",
+                    "space_group": "R-3c",
+                    "relaxed_energy": -55.67131172929049,
+                    "chemical_potential_interstitial": -6.261729210387877,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-773920-GGA+U",
+                    "formula": "Cr5O12",
+                    "space_group": "Pbcn",
+                    "relaxed_energy": -361.8716740439189,
+                    "chemical_potential_interstitial": -5.653478993939641,
+                    "chemical_potential_metal": -4.525234116740807
+                },
+                {
+                    "material_id": "mp-19177-GGA+U",
+                    "formula": "CrO2",
+                    "space_group": "P4_2/mnm",
+                    "relaxed_energy": -32.62717265647721,
+                    "chemical_potential_interstitial": -5.894176105748898,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-21395-GGA+U",
+                    "formula": "CrO2",
+                    "space_group": "Pnnm",
+                    "relaxed_energy": -32.63084980648083,
+                    "chemical_potential_interstitial": -5.895095393249805,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-755073-GGA+U",
+                    "formula": "CrO",
+                    "space_group": "C2/c",
+                    "relaxed_energy": -42.05728195433659,
+                    "chemical_potential_interstitial": -5.9890863718433405,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1281333-GGA+U",
+                    "formula": "CrO2",
+                    "space_group": "P-42_1m",
+                    "relaxed_energy": -65.2867726162699,
+                    "chemical_potential_interstitial": -5.898229518663334,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1283577-GGA+U",
+                    "formula": "CrO",
+                    "space_group": "C2/c",
+                    "relaxed_energy": -42.01524384950891,
+                    "chemical_potential_interstitial": -5.978576845636422,
+                    "chemical_potential_metal": -4.5252341167408066
+                },
+                {
+                    "material_id": "mp-1213798-GGA+U",
+                    "formula": "Cr6O11",
+                    "space_group": "P-1",
+                    "relaxed_energy": -186.49611028306717,
+                    "chemical_potential_interstitial": -6.00878640373534,
+                    "chemical_potential_metal": -4.525234116740807
+                }
+            ],
+            "Fe": [
+                {
+                    "material_id": "mp-19770-GGA+U",
+                    "formula": "Fe2O3",
+                    "space_group": "R-3c",
+                    "relaxed_energy": -51.21761329408401,
+                    "chemical_potential_interstitial": -4.983916024172145,
+                    "chemical_potential_metal": -5.328529287262786
+                },
+                {
+                    "material_id": "mp-1274279-GGA+U",
+                    "formula": "FeO",
+                    "space_group": "P-1",
+                    "relaxed_energy": -41.11135123280234,
+                    "chemical_potential_interstitial": -4.949308520937801,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-715262-GGA+U",
+                    "formula": "FeO",
+                    "space_group": "I4/mmm",
+                    "relaxed_energy": -20.497430820249043,
+                    "chemical_potential_interstitial": -4.920186122861737,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-1178232-GGA+U",
+                    "formula": "FeO",
+                    "space_group": "P1",
+                    "relaxed_energy": -41.09449936680277,
+                    "chemical_potential_interstitial": -4.945095554437908,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-19306-GGA+U",
+                    "formula": "Fe3O4",
+                    "space_group": "R-3m",
+                    "relaxed_energy": -72.99837426265732,
+                    "chemical_potential_interstitial": -5.128399817385077,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-1283030-GGA+U",
+                    "formula": "FeO",
+                    "space_group": "P-1",
+                    "relaxed_energy": -41.02652025603044,
+                    "chemical_potential_interstitial": -4.928100776744825,
+                    "chemical_potential_metal": -5.328529287262785
+                },
+                {
+                    "material_id": "mp-31770-GGA+U",
+                    "formula": "Fe3O4",
+                    "space_group": "Cc",
+                    "relaxed_energy": -73.0515412764201,
+                    "chemical_potential_interstitial": -5.135045694105424,
+                    "chemical_potential_metal": -5.328529287262785
+                }
+            ],
+            "Mo": [
+                {
+                    "material_id": "mp-706490-GGA+U",
+                    "formula": "Mo9O26",
+                    "space_group": "P1",
+                    "relaxed_energy": -848.2560484957397,
+                    "chemical_potential_interstitial": -5.724185348018347,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-510536-GGA+U",
+                    "formula": "MoO2",
+                    "space_group": "P2_1/c",
+                    "relaxed_energy": -36.65637682679371,
+                    "chemical_potential_interstitial": -5.6510279247285435,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-18856-GGA+U",
+                    "formula": "MoO3",
+                    "space_group": "P2_1/c",
+                    "relaxed_energy": -192.8387288969796,
+                    "chemical_potential_interstitial": -5.692902849394227,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-560190-GGA+U",
+                    "formula": "Mo8O23",
+                    "space_group": "P2/c",
+                    "relaxed_energy": -752.5091796003198,
+                    "chemical_potential_interstitial": -5.73557540819834,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-715550-GGA+U",
+                    "formula": "MoO2",
+                    "space_group": "P2_1/c",
+                    "relaxed_energy": -73.54421794468912,
+                    "chemical_potential_interstitial": -5.679960961116256,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-27701-GGA+U",
+                    "formula": "Mo9O26",
+                    "space_group": "P2/c",
+                    "relaxed_energy": -423.9454089369363,
+                    "chemical_potential_interstitial": -5.720673515115778,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-715584-GGA+U",
+                    "formula": "MoO3",
+                    "space_group": "Pc",
+                    "relaxed_energy": -96.4640388171007,
+                    "chemical_potential_interstitial": -5.696625713445136,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-2669-GGA+U",
+                    "formula": "Mo8O23",
+                    "space_group": "P2/c",
+                    "relaxed_energy": -375.7442098652251,
+                    "chemical_potential_interstitial": -5.724480192221496,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-558247-GGA+U",
+                    "formula": "Mo4O11",
+                    "space_group": "P2_1/c",
+                    "relaxed_energy": -366.45879627113476,
+                    "chemical_potential_interstitial": -5.773651710184056,
+                    "chemical_potential_metal": -7.02613256393977
+                },
+                {
+                    "material_id": "mp-1201958-GGA+U",
+                    "formula": "Mo8O23",
+                    "space_group": "Pc",
+                    "relaxed_energy": -752.6236548558577,
+                    "chemical_potential_interstitial": -5.736819704454186,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-540786-GGA+U",
+                    "formula": "Mo4O11",
+                    "space_group": "Pnma",
+                    "relaxed_energy": -366.1378456877973,
+                    "chemical_potential_interstitial": -5.766357378744569,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-30544-GGA+U",
+                    "formula": "Mo5O14",
+                    "space_group": "P2_1/c",
+                    "relaxed_energy": -463.0277296941882,
+                    "chemical_potential_interstitial": -5.759019257417729,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-285-GGA+U",
+                    "formula": "Mo17O47",
+                    "space_group": "Pba2",
+                    "relaxed_energy": -776.2038576137891,
+                    "chemical_potential_interstitial": -5.716120749359968,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-28777-GGA+U",
+                    "formula": "Mo9O25",
+                    "space_group": "P2/c",
+                    "relaxed_energy": -414.7450666938672,
+                    "chemical_potential_interstitial": -5.765493610859028,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-1445089-GGA+U",
+                    "formula": "MoO3",
+                    "space_group": "P1",
+                    "relaxed_energy": -96.23274117275288,
+                    "chemical_potential_interstitial": -5.677350909749484,
+                    "chemical_potential_metal": -7.026132563939768
+                },
+                {
+                    "material_id": "mp-542610-GGA+U",
+                    "formula": "Mo4O11",
+                    "space_group": "Pna2_1",
+                    "relaxed_energy": -366.8798804151906,
+                    "chemical_potential_interstitial": -5.783221804367144,
+                    "chemical_potential_metal": -7.0261325639397665
+                }
+            ],
+            "Nb": [
+                {
+                    "material_id": "mp-2311-GGA",
+                    "formula": "NbO",
+                    "space_group": "Pm-3m",
+                    "relaxed_energy": -43.96980155193096,
+                    "chemical_potential_interstitial": -6.991859089402716,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-1470-GGA",
+                    "formula": "Nb12O29",
+                    "space_group": "Cmcm",
+                    "relaxed_energy": -566.6263788708559,
+                    "chemical_potential_interstitial": -6.597803182777127,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-581967-GGA",
+                    "formula": "Nb2O5",
+                    "space_group": "P2",
+                    "relaxed_energy": -674.056599623543,
+                    "chemical_potential_interstitial": -6.563483423459001,
+                    "chemical_potential_metal": -7.664741427907605
+                },
+                {
+                    "material_id": "mp-557057-GGA",
+                    "formula": "NbO2",
+                    "space_group": "I4_1/a",
+                    "relaxed_energy": -168.6433762540573,
+                    "chemical_potential_interstitial": -6.707840301924779,
+                    "chemical_potential_metal": -7.664741427907604
+                },
+                {
+                    "material_id": "mp-680944-GGA",
+                    "formula": "Nb2O5",
+                    "space_group": "P1",
+                    "relaxed_energy": -385.15837488626204,
+                    "chemical_potential_interstitial": -6.563062800993509,
+                    "chemical_potential_metal": -7.664741427907604
+                }
+            ],
+            "Ni": [
+                {
+                    "material_id": "mp-19009-GGA+U",
+                    "formula": "NiO",
+                    "space_group": "Fm-3m",
+                    "relaxed_energy": -18.880342258492053,
+                    "chemical_potential_interstitial": -4.159525961700918,
+                    "chemical_potential_metal": -5.280645167545108
+                },
+                {
+                    "material_id": "mp-656887-GGA+U",
+                    "formula": "Ni3O4",
+                    "space_group": "Cmmm",
+                    "relaxed_energy": -65.8539480364077,
+                    "chemical_potential_interstitial": -4.271259628892132,
+                    "chemical_potential_metal": -5.280645167545107
+                }
+            ],
+            "Ti": [
+                {
+                    "material_id": "mp-458-GGA",
+                    "formula": "Ti2O3",
+                    "space_group": "R-3c",
+                    "relaxed_energy": -71.26888059825737,
+                    "chemical_potential_interstitial": -7.96756896814275,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1147-GGA",
+                    "formula": "Ti3O5",
+                    "space_group": "C2/m",
+                    "relaxed_energy": -113.64428284209865,
+                    "chemical_potential_interstitial": -7.8449082657997335,
+                    "chemical_potential_metal": -5.865866697350218
+                },
+                {
+                    "material_id": "mp-1071163-GGA",
+                    "formula": "TiO",
+                    "space_group": "P-62m",
+                    "relaxed_energy": -42.18859292586968,
+                    "chemical_potential_interstitial": -8.196997611273009,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-2591-GGA",
+                    "formula": "Ti3O",
+                    "space_group": "P-31c",
+                    "relaxed_energy": -106.09113154747206,
+                    "chemical_potential_interstitial": -8.925182794817363,
+                    "chemical_potential_metal": -5.865866697350217
+                },
+                {
+                    "material_id": "mp-1215-GGA",
+                    "formula": "Ti2O",
+                    "space_group": "P-3m1",
+                    "relaxed_energy": -20.478558711792804,
+                    "chemical_potential_interstitial": -8.74682531709237,
+                    "chemical_potential_metal": -5.865866697350217
+                }
+            ],
+            "Zr": [
+                {
+                    "material_id": "mp-561418-GGA",
+                    "formula": "Zr3O",
+                    "space_group": "R32",
+                    "relaxed_energy": -116.04825949944323,
+                    "chemical_potential_interstitial": -8.88033218788603,
+                    "chemical_potential_metal": -6.710577562324926
+                },
+                {
+                    "material_id": "mp-2858-GGA",
+                    "formula": "ZrO2",
+                    "space_group": "P2_1/c",
+                    "relaxed_energy": -93.43922016860036,
+                    "chemical_potential_interstitial": -8.324613739912582,
+                    "chemical_potential_metal": -6.710577562324925
+                },
+                {
+                    "material_id": "mp-1215377-GGA",
+                    "formula": "Zr4O",
+                    "space_group": "R-3",
+                    "relaxed_energy": -107.05309351628699,
+                    "chemical_potential_interstitial": -8.842054256129293,
+                    "chemical_potential_metal": -6.710577562324926
+                },
+                {
+                    "material_id": "mp-14024-GGA",
+                    "formula": "Zr3O",
+                    "space_group": "R-3c",
+                    "relaxed_energy": -58.03035921175359,
+                    "chemical_potential_interstitial": -8.883446918902017,
+                    "chemical_potential_metal": -6.710577562324926
+                },
+                {
+                    "material_id": "mp-1017-GGA",
+                    "formula": "Zr3O",
+                    "space_group": "P6_322",
+                    "relaxed_energy": -58.02531926079264,
+                    "chemical_potential_interstitial": -8.880926943421542,
+                    "chemical_potential_metal": -6.710577562324926
+                }
+            ]
+        }
+    },
+    "bulk_metal_energies": {
+        "Al": -3.7478779635749913,
+        "Cr": -4.5252341167408066,
+        "Fe": -5.328529287262785,
+        "Mo": -7.026132563939769,
+        "Nb": -7.664741427907605,
+        "Ni": -5.280645167545108,
+        "Ti": -5.865866697350217,
+        "Zr": -6.710577562324927
+    }
+}

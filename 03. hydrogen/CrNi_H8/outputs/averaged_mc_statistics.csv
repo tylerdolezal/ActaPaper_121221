@@ -1,0 +1,8 @@
+Species,Mean Acceptance Rate,Standard Deviation
+Cr,13.9333,1.2994
+H,34.9267,6.6988
+Ni,13.9533,1.3295
+
+Metric,Mean,Standard Deviation
+Total Acceptance Rate,48.8700,5.7509
+Total Rejection Rate,51.1300,5.7509
